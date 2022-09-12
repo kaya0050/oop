@@ -1,0 +1,5 @@
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\builds\hellooop1.exe
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\builds\hellooop1.dll
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\builds\hellooop1.deps.json
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\builds\hellooop1.runtimeconfig.json
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\builds\hellooop1.pdb

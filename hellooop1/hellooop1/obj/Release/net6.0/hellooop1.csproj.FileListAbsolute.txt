@@ -1,0 +1,15 @@
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\bin\Release\net6.0\hellooop1.exe
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\bin\Release\net6.0\hellooop1.deps.json
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\bin\Release\net6.0\hellooop1.runtimeconfig.json
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\bin\Release\net6.0\hellooop1.dll
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\bin\Release\net6.0\hellooop1.pdb
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\hellooop1.csproj.AssemblyReference.cache
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\hellooop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\hellooop1.AssemblyInfoInputs.cache
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\hellooop1.AssemblyInfo.cs
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\hellooop1.csproj.CoreCompileInputs.cache
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\hellooop1.dll
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\refint\hellooop1.dll
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\hellooop1.pdb
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\hellooop1.genruntimeconfig.cache
+C:\Users\kayab\OneDrive\Desktop\c#\oop\hellooop1\hellooop1\obj\Release\net6.0\ref\hellooop1.dll
