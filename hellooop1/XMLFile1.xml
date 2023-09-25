@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+	<appSetings>
+		<add key="driver" value="mysql" />
+		<add key="host" value="localhost" />
+		<add key="port" value="3306" />
+		<add key="database" value="project_games" />
+		<add key="username" value="noorderpoort" />
+		<add key="password" value="1234" />
+	</appSetings>
+</configuration>
