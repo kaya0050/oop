@@ -11,7 +11,7 @@ namespace ziesherper_10
             Opdracht10_1();
             Opdracht10_2();
             Opdracht10_3();
-
+            Opdracht10_4();
 
 
         }
@@ -94,7 +94,11 @@ namespace ziesherper_10
             Mens baby = mama.PlantVoort(papa);
             Console.WriteLine(baby == null ? $"beeby geslacht {baby.Geslacht}  lengte {baby.MaxLengte}" : "miskraam（>_<）");
         }
-
+        
+        private static void Opdracht10_4()
+        {
+            
+        }
     }
      
 }
