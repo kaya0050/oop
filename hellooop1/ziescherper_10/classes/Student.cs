@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace ziescherper_10.classes
 {
-    internal class Student
+    public class Student
     {
         public string Naam { get; set; }
         public Student(string Naam)
         {
             this.Naam = Naam;
         }
+        public Student()
+        {
+            this.Naam = "kaya";
+        }  
         public static Student ZoekStudent(Student[] array, string naam)
         {
             Student gevonden = null;

@@ -51,4 +51,3 @@ namespace ziescherper_09.classes
         }
     
 }
-s

@@ -11,4 +11,11 @@
     <Folder Include="classes\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\hellooop1\hellooop1.csproj" />
+    <ProjectReference Include="..\ziescherper12\ziescherper_12.csproj" />
+    <ProjectReference Include="..\ziescherper_09\ziescherper_09.csproj" />
+    <ProjectReference Include="..\ziescherper_10\ziescherper_10.csproj" />
+  </ItemGroup>
+
 </Project>
