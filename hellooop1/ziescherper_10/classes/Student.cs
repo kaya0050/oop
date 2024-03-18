@@ -8,6 +8,7 @@ namespace ziescherper_10.classes
 {
     public class Student
     {
+        public int geboortejaar { get ; set; } = 2000;
         public string Naam { get; set; }
         public Student(string Naam)
         {
