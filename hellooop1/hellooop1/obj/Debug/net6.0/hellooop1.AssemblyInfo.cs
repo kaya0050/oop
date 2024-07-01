@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hellooop1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4d68638b31053a573af2f0ded599422096efa78")]
 [assembly: System.Reflection.AssemblyProductAttribute("hellooop1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hellooop1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

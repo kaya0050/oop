@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ziescherper_10", "ziescherp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ziescherper_11", "oopopdracht11\ziescherper_11.csproj", "{746F4AD3-0013-4A0A-9235-D9D5213CDC93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ziescherper_12", "ziescherper12\ziescherper_12.csproj", "{C5B1A0AC-3E24-4786-B4B9-0F945B187526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ziescherper_12", "ziescherper12\ziescherper_12.csproj", "{C5B1A0AC-3E24-4786-B4B9-0F945B187526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ziescherper13", "ziescherper13\ziescherper13.csproj", "{CBB05A7E-63A9-45D4-BEC5-45C0918DB3AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C5B1A0AC-3E24-4786-B4B9-0F945B187526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5B1A0AC-3E24-4786-B4B9-0F945B187526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5B1A0AC-3E24-4786-B4B9-0F945B187526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB05A7E-63A9-45D4-BEC5-45C0918DB3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB05A7E-63A9-45D4-BEC5-45C0918DB3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB05A7E-63A9-45D4-BEC5-45C0918DB3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB05A7E-63A9-45D4-BEC5-45C0918DB3AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
